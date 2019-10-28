@@ -1,9 +1,7 @@
-﻿BIN : contiendra les fichies générés après la compilation.Allez y pour testez le programme
-SRC : contiendra le fichier source. 
-DOC : contiendra les médias (video, audio etc;)
-INCLUDE : contient les fichiers headers d'extension (.h) .
-         ex : fonctions.h qui contient les fonctions que l'on va utiliser dans le main.
-              var_types.h qui contient les constantes et définitions de structure
-
+BIN : contiendra les fichies générés après la compilation. Allez y pour testez le programme
+SRC : contiendra le fichier source 
+DOC : contiendra les médias (video, audio etc)
+INCLUDE : contient les fichiers headers
+         
          
               
